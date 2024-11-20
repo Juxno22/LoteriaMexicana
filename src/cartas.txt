@@ -1,0 +1,10 @@
+"El Gallo", "El Diablito", "La Dama", "El Catrín", "El Paraguas",
+"La Sirena", "La Escalera", "La Botella", "El Barril", "El Árbol",
+"El Melón", "El Valiente", "El Gorrito", "La Muerte", "La Pera",
+"La Bandera", "El Sol", "La Luna", "El Cotorro", "El Borracho",
+"El Negrito", "El Corazón", "La Sandía", "El Tambor", "El Camarón",
+"Las Jaras", "El Músico", "La Rosa", "La Calavera", "La Campana",
+"El Cantarito", "El Venado", "El Mundo", "El Apache", "El Nopal",
+"El Alacrán", "La Rana", "El Arpa", "La Palma", "La Maceta",
+"El Violoncello", "La Garza", "El Pescado", "La Estrella", "El Mano",
+"La Chalupa", "El Pino", "El Paraguas", "El Sol", "La Corona"
